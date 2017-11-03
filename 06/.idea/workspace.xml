@@ -15,7 +15,7 @@
         <entry file="file://$PROJECT_DIR$/ML-PW-06 Magnin-Kocher.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="8" />
+              <selected id="9" />
             </state>
           </provider>
         </entry>
@@ -51,6 +51,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="236" />
+    <option name="y" value="185" />
     <option name="width" value="1152" />
     <option name="height" value="716" />
   </component>
@@ -197,7 +199,7 @@
     <entry file="file://$PROJECT_DIR$/ML-PW-06 Magnin-Kocher.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="8" />
+          <selected id="9" />
         </state>
       </provider>
     </entry>
